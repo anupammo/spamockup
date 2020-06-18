@@ -1,18 +1,18 @@
-[  
+[
     {
-        "category":"cooking", 
-        "url":"https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },  
+        "category": "Cooking",
+        "url": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
     {
-        "category":"drawing", 
-        "url":"https://images.pexels.com/photos/1478477/pexels-photo-1478477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },  
+        "category": "Drawing",
+        "url": "https://images.pexels.com/photos/1478477/pexels-photo-1478477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
     {
-        "category":"painting", 
-        "url":"https://images.pexels.com/photos/1478477/pexels-photo-1478477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    },  
+        "category": "Painting",
+        "url": "https://images.pexels.com/photos/1478477/pexels-photo-1478477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
     {
-        "category":"writing", 
-        "url":"https://images.pexels.com/photos/851213/pexels-photo-851213.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    }  
-]  
+        "category": "Writing",
+        "url": "https://images.pexels.com/photos/851213/pexels-photo-851213.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]
