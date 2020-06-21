@@ -14,5 +14,13 @@
     {
         "category": "Writing",
         "url": "https://images.pexels.com/photos/851213/pexels-photo-851213.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "category": "Coding",
+        "url": "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "category": "Origami",
+        "url": "https://images.pexels.com/photos/1582782/pexels-photo-1582782.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     }
 ]
